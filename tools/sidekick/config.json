@@ -1,5 +1,5 @@
 {
-  "project": "My Project",
+  "project": "AEM XWalk Boilerplate",
   "editUrlLabel": "Document Authoring",
   "editUrlPattern": "https://da.live/edit#/{{org}}/{{site}}{{pathname}}"
 }
